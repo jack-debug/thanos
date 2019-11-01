@@ -3,6 +3,7 @@ import random
 import ctypes
 import sys
 
+print("Snap")
 def execute_():
     mydir = os.getcwd()
     mydir=mydir[:2]
