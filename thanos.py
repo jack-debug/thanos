@@ -12,7 +12,7 @@ def execute_():
     length_ = round(len(filelist)/2)
     filelist = filelist[:length_]
     for f in filelist:
-        if f.endswith("Thanos.py"):
+        if f.endswith("thanos.py"):
             pass
         else:
             print(f)
