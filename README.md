@@ -8,3 +8,7 @@ As usual, type this into yuor terminal
 ```
 python3 path/thanos.py
 ```
+For mac and linux
+```
+python3 path/thanos_mac.py
+```
